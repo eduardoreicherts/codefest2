@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/*cabeçalho*/
+
+header{
+    width: 100vw;
+    height: 18vh;
+}
+nav {
+    height: 100%;
+    width: 100%;
+    box-shadow: 1px 1px 9px #08080825;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+img {
+    width: 150px;
+    margin: 20px;
+}

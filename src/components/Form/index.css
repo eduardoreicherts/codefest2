@@ -1,11 +1,13 @@
 form {
-    width: 50%;
+    width: 30%;
     height: 100%;
+    margin: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 20px;
-    background-color: rgb(235, 243, 250);
-    border-radius: 40px;
+    gap: 5px;
+    box-shadow: 0px 0px 9px #08080825;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
 }

@@ -12,12 +12,12 @@ body {
     height: 80vh;
     width: 100%;
     display: flex;
-    margin-top: 40px;
-    background-color: rgb(255, 145, 0);
+    margin-top: 90px;
 }
 
 .sec2 {
-    height: 100vh;
+    height: 60vh;
     width: 100%;
-    background-color: rgb(0, 255, 255);
+    margin-top: 30px;
+    
 }
