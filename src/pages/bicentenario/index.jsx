@@ -1,4 +1,5 @@
-import SwipeableTextMobileStepper from "../../components/Header";
+import SwipeableTextMobileStepper from "../../components/Carroussel";
+import Form from "../../components/Form";
 import "./index.css";
 
 
@@ -8,7 +9,7 @@ const Bicentenario = () => {
         <>
         <SwipeableTextMobileStepper/>
         <section className="sec1">
-            1
+            <Form/>
         </section>
         <section className="sec2">
             2
